@@ -11,7 +11,7 @@ sys.path.append('../scripts')
 from phase8 import Phase
 import pickle
 
-wv='WIG1'
+wv='MRG'
 xt=np.arange(1,9)
 titles = ['ecmwf' ,'ICON-2.5km','ICON-5km','ICON-10km','ICON-20km','ICON-40km',
          'ICON-80km','ICON-20km-conv','ICON-40km-conv','ICON-80km-conv']
